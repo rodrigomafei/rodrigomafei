@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Hello World! I'm Rodrigo
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/rodrigomafei">
