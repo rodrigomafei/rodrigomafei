@@ -13,10 +13,10 @@
   <a href="https://www.instagram.com/rodrigo_mafei">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
-  <br />
-  
+    
   </div>
+
+##
 
 <div align="center">
   <a href="https://github.com/rodrigomafei">
